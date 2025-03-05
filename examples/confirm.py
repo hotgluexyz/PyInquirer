@@ -5,7 +5,7 @@
 """
 from pprint import pprint
 
-from PyInquirer import prompt
+from PyInquirer.prompt import prompt
 
 from examples import custom_style_1
 
