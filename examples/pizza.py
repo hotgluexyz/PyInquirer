@@ -10,7 +10,7 @@ from pprint import pprint
 
 from prompt_toolkit.validation import Validator, ValidationError
 
-from PyInquirer.prompt import prompt
+from PyInquirer import prompt
 
 from examples import custom_style_3
 
